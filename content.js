@@ -1,4 +1,5 @@
 //  Created by Dave Sapien on 01/05/2015.
+//document.getElementsByClassName("thebutton-container pressed")[0].className = "thebutton-container";//used for testing the button press
 var URL = document.URL;//the current page
 var targetURL = "www.reddit.com/r/thebutton";
 var targetvalue = 11;//the target time for 'the button'
